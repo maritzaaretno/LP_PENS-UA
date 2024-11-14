@@ -180,26 +180,26 @@ const Contact = () => {
 
               <div className="5 mb-7">
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
-                  Our Loaction
+                  Lokasi
                 </h3>
-                <p>290 Maryam Springs 260, Courbevoie, Paris, France</p>
+                <p>Politeknik Elektronika Negeri Surabaya, Jl. Raya ITS, Keputih, Sukolilo, Surabaya, East Java 60111</p>
               </div>
               <div className="5 mb-7">
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
-                  Email Address
+                  Alamat Email
                 </h3>
                 <p>
-                  <a href="#">yourmail@domainname.com</a>
+                  <a href="#">pens.ac.id</a>
                 </p>
               </div>
-              <div>
+              {/* <div>
                 <h4 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Phone Number
                 </h4>
                 <p>
                   <a href="#">+009 42334 6343 843</a>
                 </p>
-              </div>
+              </div> */}
             </motion.div>
           </div>
         </div>
